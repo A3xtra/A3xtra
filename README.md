@@ -8,7 +8,7 @@
   <img align="center" src="https://github.com/A3xtra/A3xtra/blob/main/Discordlogo.png?raw=true" height="30px" width="30px"/>
   <a align="center" href="https://discord.com/users/313314864481173507"> Discord </a> |
   <img align="center" src="https://github.com/A3xtra/A3xtra/blob/main/Skypelogo.png?raw=true" height="30px" width="30px"/>
-  <a align="center" href="skype:berceusers?chat"> Skype </a>
+  <a align="center" href="https://join.skype.com/invite/DZUp7iIlW9YI"> Skype </a>
 </p>
 
 <h3 align="center"> Skills </h3>

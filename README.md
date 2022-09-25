@@ -5,8 +5,10 @@
 
 <h2 align="center"> Contact me </h3>
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/Fweak/Fweak/main/DiscordLogo.png" height="30px" width="30px"/>
+  <img align="center" src="https://github.com/A3xtra/A3xtra/blob/main/Discordlogo.png?raw=true" height="30px" width="30px"/>
   <a align="center" href="https://discord.com/users/313314864481173507"> Discord </a> |
+  <img align="center" src="https://github.com/A3xtra/A3xtra/blob/main/Skypelogo.png?raw=true" height="30px" width="30px"/>
+  <a align="center" href="skype:berceusers?chat"> Skype </a>
 </p>
 
 <h3 align="center"> Skills </h3>

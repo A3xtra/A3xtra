@@ -16,5 +16,5 @@
   <img align="center" src="https://github.com/A3xtra/A3xtra/blob/main/C%23logo.png?raw=true" height="30px" width="30px"/> |
   <img align="center" src="https://github.com/A3xtra/A3xtra/blob/main/HTMLlogo.png?raw=true" height="30px" width="30px"/> |
   <img align="center" src="https://github.com/A3xtra/A3xtra/blob/main/JSlogo.png?raw=true" height="30px" width="30px"/> |
-  <img align="center" src="https://github.com/A3xtra/A3xtra/blob/main/Pythonlogo.png?raw=true" height="30px" width="30px"/> |
+  <img align="center" src="https://github.com/A3xtra/A3xtra/blob/main/Pythonlogo.png?raw=true" height="30px" width="30px"/>
 </p>
